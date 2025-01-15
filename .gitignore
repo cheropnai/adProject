@@ -1,0 +1,22 @@
+# Virtual environments
+adenv/
+adenv2/
+
+# Python cache
+__pycache__/
+
+# Configuration
+pyvenv.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+*.tmp
+
+# Compiled Python files
+*.pyc
+
+# Notebook files
+*.ipynb
