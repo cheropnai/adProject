@@ -20,3 +20,5 @@ pyvenv.cfg
 
 # Notebook files
 *.ipynb
+# Dataset(privacy Concerns)
+backend/dataset/
